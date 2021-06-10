@@ -67,6 +67,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Index.html" />
+    <Content Include="SignIn.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
